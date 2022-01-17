@@ -1,0 +1,82 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend",
+      "company": "Masai School",
+      "min_salary": "600000",
+      "max_salary": "800000",
+      "location": "Banglore",
+      "job_type": "remote"
+    },
+    {
+      "id": 2,
+      "title": "Backend",
+      "company": "Masai School",
+      "min_salary": "650000",
+      "max_salary": "900000",
+      "location": "Banglore",
+      "job_type": "remote"
+    },
+    {
+      "id": 3,
+      "title": "Data Analyst",
+      "company": "TCS",
+      "min_salary": "500000",
+      "max_salary": "800000",
+      "location": "Pune",
+      "job_type": "remote"
+    },
+    {
+      "id": 4,
+      "title": "SED-1",
+      "company": "Junglee-Games",
+      "min_salary": "600000",
+      "max_salary": "750000",
+      "location": "Chennai",
+      "job_type": "On-site"
+    },
+    {
+      "title": "SDE-2",
+      "company": "Accenture",
+      "min_salary": "350000",
+      "max_salary": "500000",
+      "location": "Pune",
+      "job_type": "On-site",
+      "id": 5
+    },
+    {
+      "title": "Testing",
+      "company": "Wipro",
+      "min_salary": "250000",
+      "max_salary": "400000",
+      "location": "Bombay",
+      "job_type": "remote",
+      "id": 6
+    },
+    {
+      "title": "Data Science",
+      "company": "Tigers Analytics",
+      "min_salary": "700000",
+      "max_salary": "950000",
+      "location": "Chennai",
+      "jobtype": "remote",
+      "id": 7
+    }
+  ],
+  "applied": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "kalpitme@gmail.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "role": "client"
+    }
+  ]
+}

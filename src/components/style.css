@@ -1,0 +1,11 @@
+table{
+    background: white;
+    width: 100%;
+  }
+  td{
+    width: 13%;
+    border: 1px solid;  
+  }
+  thead{
+    background: yellow;
+  }
